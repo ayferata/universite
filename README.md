@@ -28,4 +28,5 @@ public class GuvenlikGorevlisi extends Memur {
     public void giris(){
         System.out.println(getAdSoyad() +" Güvenlik Görevlisi Üniversiteye giriş yaptı.");
     }
+    
 }
