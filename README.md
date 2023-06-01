@@ -27,6 +27,7 @@ public class GuvenlikGorevlisi extends Memur {
     @Override
     public void giris(){
         System.out.println(getAdSoyad() +" Güvenlik Görevlisi Üniversiteye giriş yaptı.");
+        
     }
     
 }
